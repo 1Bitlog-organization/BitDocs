@@ -2,3 +2,8 @@ site_name: My Docs
 
 theme:
   name: material
+  language: ru
+  
+  features:
+    - navigation.tabs
+    - navigation.instant
