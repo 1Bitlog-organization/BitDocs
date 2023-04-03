@@ -11,7 +11,8 @@ markdown_extensions:
   - pymdownx.superfences
 
 # Repository
-
+repo_name: IBit-mc-server/BitDocs
+repo_url: https://github.com/IBit-mc-server/BitDocs
 
 theme:
   name: material
