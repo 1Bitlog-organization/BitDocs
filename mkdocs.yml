@@ -10,6 +10,13 @@ repo_url: https://github.com/Thortgathis/test
 theme:
   name: material
   language: ru
+  
+  logo: images/logo.png
+  favicon: images/favicon.png
+  
+  extra:
+    homepage: https://thorgathis.github.io/test/
+  
   features:
     - announce.dismiss
     - content.action.edit
