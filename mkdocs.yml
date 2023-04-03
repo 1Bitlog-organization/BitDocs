@@ -4,6 +4,8 @@ site_url: https://ibit-mc-server.github.io/BitDocs/
 site_author: Thorgathis, 1BitLog
 
 markdown_extensions:
+  - attr_list
+  - md_in_html
   - admonition
   - pymdownx.details
   - pymdownx.superfences
