@@ -1,4 +1,11 @@
-site_name: My Docs
+# Project information
+site_name: BitDocs
+site_url: https://thorgathis.github.io/test/
+site_author: Thorgathis
+
+# Repository
+repo_name: Thorgathis/test
+repo_url: https://github.com/Thortgathis/test
 
 theme:
   name: material
