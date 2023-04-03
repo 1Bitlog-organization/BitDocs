@@ -4,7 +4,7 @@
  - ОЗУ - комплектующее от которого зависит скорость генерирования вашей криптовалюты
  - SSD - комплектующее от которого напрямую зависит сколько ваш майнинг стенд сможет хранить криптовалюты 
 
-???+ note
+???+ abstract "Info"
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
