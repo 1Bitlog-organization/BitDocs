@@ -63,6 +63,11 @@ theme:
   icon:
     logo: logo
 
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+
 # Page tree
 nav:
   - Home: index.md
