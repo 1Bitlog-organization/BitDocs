@@ -68,9 +68,6 @@ nav:
   - Home: index.md
   - Guides:
     - О нас: guides/about.md
-    - Creating your site: creating-your-site.md
-    - Publishing your site: publishing-your-site.md
-    - Customization: customization.md
-    - Browser support: browser-support.md
-    - Philosophy: philosophy.md
-    - Alternatives: alternatives.md
+    - Майнинг: guides/mining.md
+    - Криптовалюты: guides/cripto.md
+    - Терминалы: guides/terminals.md
