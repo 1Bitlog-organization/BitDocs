@@ -15,7 +15,7 @@ theme:
   favicon: images/favicon.png
   
   extra:
-    homepage: https://thorgathis.github.io/test/
+    homepage: https://ibit-mc-server.github.io/BitDocs/
   
   features:
     - announce.dismiss
