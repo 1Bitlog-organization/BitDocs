@@ -1,13 +1,6 @@
-# Welcome to MkDocs
+# Добро пожаловать на BitDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-Lorem ipsum dolor sit amet, (1) consectetur adipiscing elit.
-{ .annotate }
-
-1.  :man_raising_hand: I'm an annotation! I can contain `code`, __formatted
-    text__, images, ... basically anything that can be expressed in Markdown.
-
+<!-- For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
 
@@ -22,3 +15,4 @@ Lorem ipsum dolor sit amet, (1) consectetur adipiscing elit.
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+ -->
