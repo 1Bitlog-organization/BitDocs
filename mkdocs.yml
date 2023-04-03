@@ -61,10 +61,6 @@ theme:
   icon:
     logo: logo
 
-plugins:
-  - search
-  - git-authors
-
 # Page tree
 nav:
   - Home: index.md
