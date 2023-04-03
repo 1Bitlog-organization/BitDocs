@@ -1,11 +1,11 @@
 # Project information
 site_name: BitDocs
-site_url: https://thorgathis.github.io/test/
-site_author: Thorgathis
+site_url: https://ibit-mc-server.github.io/BitDocs/
+site_author: Thorgathis, 1BitLog
 
 # Repository
-repo_name: Thorgathis/test
-repo_url: https://github.com/Thorgathis/test
+repo_name: IBit-mc-server/BitDocs
+repo_url: https://github.com/IBit-mc-server/BitDocs
 
 theme:
   name: material
