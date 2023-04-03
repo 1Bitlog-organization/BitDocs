@@ -1,6 +1,6 @@
 # Project information
 site_name: BitDocs
-site_url: https://ibit-mc-server.github.io/BitDocs/
+site_url: https://docs.1bitlog.ru/
 site_author: Thorgathis, 1BitLog
 
 markdown_extensions:
@@ -24,7 +24,7 @@ theme:
   favicon: images/favicon.png
   
   extra:
-    homepage: https://ibit-mc-server.github.io/BitDocs/
+    homepage: https://docs.1bitlog.ru/
   
   features:
     - announce.dismiss
