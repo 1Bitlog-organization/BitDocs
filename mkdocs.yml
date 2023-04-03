@@ -12,7 +12,6 @@ markdown_extensions:
 
 # Repository
 
-repo_url: https://github.com/IBit-mc-server/BitDocs
 
 theme:
   name: material
