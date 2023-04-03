@@ -5,7 +5,7 @@ site_author: Thorgathis
 
 # Repository
 repo_name: Thorgathis/test
-repo_url: https://github.com/Thortgathis/test
+repo_url: https://github.com/Thorgathis/test
 
 theme:
   name: material
