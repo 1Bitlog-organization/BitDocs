@@ -1,5 +1,6 @@
 # Добро пожаловать на BitDocs
 
+Тут будет вся документация по нашему плагину.
 <!-- For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
