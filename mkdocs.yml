@@ -69,7 +69,8 @@ theme:
   favicon: assets/favicon.png
   icon:
     logo: logo
-
+plugins:
+  - table-reader
 # Page tree
 nav:
   - Home: index.md
