@@ -1,14 +1,14 @@
 # Терминалы
 
-???+ abstract "Терминал Ад"
+??? example "Терминал Ад"
 
     {{ read_excel('./terminals.xlsx', engine='openpyxl', sheet_name="Ад") }}
 
-???+ abstract "Терминал Бар"
+??? example "Терминал Бар"
 
     {{ read_excel('./terminals.xlsx', engine='openpyxl', sheet_name="Бар") }}
 
-???+ abstract "Терминал Бетон"
+??? example "Терминал Бетон"
 
     {{ read_excel('./terminals.xlsx', engine='openpyxl', sheet_name="Бетон") }}
 
