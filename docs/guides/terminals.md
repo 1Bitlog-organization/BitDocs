@@ -1,3 +1,3 @@
 # Терминалы
 
-{{ read_excel('./test1.xlsx', engine='openpyxl') }}
+{{ read_excel('./terminals.xlsx', engine='openpyxl', sheet_name="Ад") }}
