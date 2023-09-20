@@ -19,4 +19,4 @@
 <br>
 
 > Writed by Thorgathis, Qwertyliope, MurKa2009 \
-> Edit by Thorgathis.
+> Redacted by Thorgathis.

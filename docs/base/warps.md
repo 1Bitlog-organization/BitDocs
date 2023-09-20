@@ -19,4 +19,4 @@
 <br>
 
 > Writed by Thorgathis, Qwertyliope \
-> Edit by Thorgathis.
+> Redacted by Thorgathis.

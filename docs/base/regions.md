@@ -24,5 +24,5 @@
 
 <br>
 
-> Writed by Thorgathis
+> Writed by Thorgathis \
 > Redacted by spytaspund
