@@ -18,5 +18,5 @@
 
 <br>
 
-> Writed by Thorgathis, Qwertyliope, MurKa2009 \
+> Writed by Thorgathis, Qwertyliope, MurKa2009 <br>
 > Redacted by Thorgathis.
