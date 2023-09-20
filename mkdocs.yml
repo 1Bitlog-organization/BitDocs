@@ -82,3 +82,6 @@ nav:
     - Комплектующие: guides/equipment.md
   - База знаний:
     - Приваты и регионы: base/regions.md
+    - Варпы и спавны: base/warps.md
+    - Телепорты к игрокам: base/teleports.md
+    - Точки дома: base/homes.md
