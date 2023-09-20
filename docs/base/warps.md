@@ -18,5 +18,5 @@
 
 <br>
 
-> Writed by Thorgathis, Qwertyliope \
+> Writed by Thorgathis, Qwertyliope <br>
 > Redacted by Thorgathis.
