@@ -81,7 +81,10 @@ nav:
     - Терминалы: guides/terminals.md
     - Комплектующие: guides/equipment.md
   - База знаний:
-    - Приваты и регионы: base/regions.md
-    - Варпы и спавны: base/warps.md
+    - Аукционы: base/auctions.md
     - Телепорты к игрокам: base/teleports.md
     - Точки дома: base/homes.md
+    - Приваты и регионы: base/regions.md
+    - Варпы и спавны: base/warps.md
+
+
