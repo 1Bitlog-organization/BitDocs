@@ -28,5 +28,5 @@
 
 <br>
 
-> Writed by Thorgathis. <br>
-> Redacted by spytaspund.
+> Авторы статьи: Thorgathis. <br>
+> Последнее редактирование: spytaspund.

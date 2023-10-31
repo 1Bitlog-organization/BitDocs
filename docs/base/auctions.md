@@ -15,5 +15,5 @@ to be continued...
 
 <br>
 
-> Writed by Thorgathis, MurKa2009 <br>
-> Redacted by Thorgathis.
+> Авторы статьи: Thorgathis, MurKa2009 <br>
+> Последнее редактирование: Thorgathis.

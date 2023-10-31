@@ -74,7 +74,7 @@ plugins:
 # Page tree
 nav:
   - Home: index.md
-  - Guides:
+  - Гайды:
     - О нас: guides/about.md
     - Майнинг: guides/mining.md
     - Криптовалюты: guides/cripto.md

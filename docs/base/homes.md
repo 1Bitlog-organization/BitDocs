@@ -18,6 +18,6 @@
 
 <br>
 
-> Авторы: Thorgathis, MurKa2009, Qwertyliope <br>
+> Авторы статьи:  Thorgathis, MurKa2009, Qwertyliope <br>
 > Последнее редактирование: dakzekin.
 

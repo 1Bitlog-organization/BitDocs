@@ -18,5 +18,5 @@
 
 <br>
 
-> Writed by Thorgathis, Qwertyliope <br>
-> Redacted by Thorgathis.
+> Авторы статьи: Thorgathis, Qwertyliope <br>
+> Последнее редактирование: Thorgathis.
