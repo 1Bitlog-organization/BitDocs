@@ -74,19 +74,19 @@ plugins:
 # Page tree
 nav:
   - Главная: index.md
+      - О нас: guides/about.md
   - Как играть?:
-    - О нас: guides/about.md
     - Добыча монет: guides/mining.md
-    - Список монет: guides/cripto.md
+      - Список монет: guides/cripto.md
     - Компьютер: guides/equipment.md
     - Смартфон: guides/phone.md
     - Терминалы: guides/terminals.md
-  - Это полезно знать:
+    - Онлайн карта: base/maps.md
     - Аукционы: base/auctions.md
+  - Это полезно знать:
     - Телепорты к игрокам: base/teleports.md
     - Точки дома: base/homes.md
     - Приваты и регионы: base/regions.md
     - Варпы и спавны: base/warps.md
-    - Онлайн карта: base/maps.md
 
 
