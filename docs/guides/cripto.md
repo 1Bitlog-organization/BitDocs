@@ -4,10 +4,12 @@
 
 На сервере представлены 3 монеты и одна, общая валюты: (SPC), (BTL), (THR), (CU).
 
-![BTL](https://github.com/1Bitlog-organization/BitlogSite/blob/master/images/cripto/BIT.png?raw=true) 
-![THR](https://github.com/1Bitlog-organization/BitlogSite/blob/master/images/cripto/THR.png?raw=true)
-![SPC](https://github.com/1Bitlog-organization/BitlogSite/blob/master/images/cripto/SPC.png?raw=true)
-![CU](https://github.com/1Bitlog-organization/BitlogSite/blob/master/images/cripto/CU.png?raw=true)
+<div align="center">
+  <img src="https://github.com/1Bitlog-organization/BitlogSite/blob/master/images/cripto/BIT.png?raw=true" width="160" height="160"/>
+  <img src="https://github.com/1Bitlog-organization/BitlogSite/blob/master/images/cripto/THR.png?raw=true" width="160" height="160"/>
+  <img src="https://github.com/1Bitlog-organization/BitlogSite/blob/master/images/cripto/SPC.png?raw=true" width="160" height="160"/>
+  <img src="https://github.com/1Bitlog-organization/BitlogSite/blob/master/images/cripto/CU.png?raw=true " width="160" height="160"/>
+</div>
 
 (SPC), (BTL), (THR) - криптовалюты, которые вы можете намайнить на своей ферме.
 
