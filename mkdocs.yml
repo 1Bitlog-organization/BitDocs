@@ -74,7 +74,6 @@ plugins:
 # Page tree
 nav:
   - Главная: index.md
-    - О нас: guides/about.md
   - Как играть?:
     - Добыча монет: guides/mining.md
       - Список монет: guides/cripto.md
