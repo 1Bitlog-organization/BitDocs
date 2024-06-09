@@ -76,7 +76,7 @@ nav:
   - Главная: index.md
   - Как играть?:
     - Добыча монет: guides/mining.md
-      - Список монет: guides/cripto.md
+    - Список монет: guides/cripto.md
     - Компьютер: guides/equipment.md
     - Смартфон: guides/phone.md
     - Терминалы: guides/terminals.md
