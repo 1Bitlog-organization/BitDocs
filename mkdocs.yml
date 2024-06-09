@@ -20,7 +20,7 @@ theme:
   
   icon:
     repo: fontawesome/brands/github
-  logo: images/logo.png
+  logo: icon.png
   favicon: images/favicon.png
   
   extra:
