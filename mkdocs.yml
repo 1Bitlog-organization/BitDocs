@@ -73,7 +73,7 @@ plugins:
   - table-reader
 # Page tree
 nav:
-  - Home: index.md
+  - Главная: index.md
   - Гайды:
     - О нас: guides/about.md
     - Майнинг: guides/mining.md
