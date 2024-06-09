@@ -21,7 +21,7 @@ theme:
   icon:
     repo: fontawesome/brands/github
   logo: icon.png
-  favicon: images/favicon.png
+  favicon: icon.png
   
   extra:
     homepage: https://docs.1bitlog.ru/
