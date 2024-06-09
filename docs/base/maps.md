@@ -2,7 +2,7 @@
 
 ## Как зайти на онлайн карту?
 
-[Нажать сюда](https://www.1bitlog.ru/map/) или перейти по адрессу [https://www.1bitlog.ru/map/]
+[Нажать сюда](https://www.1bitlog.ru/map/) или перейти по адресу [https://www.1bitlog.ru/map/](https://www.1bitlog.ru/map/)
 
 ## Как убрать себя с карты?
 
